@@ -1,0 +1,2 @@
+INSERT INTO projects (title, client, date, is_video, video_url, user_id) 
+VALUES ('Emerald Luxury Experience', 'Emerald Hotels', '2025-01-15', true, 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4', '00000000-0000-0000-0000-000000000000');
